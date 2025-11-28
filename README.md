@@ -28,7 +28,8 @@ console.log(codes)
 //     page: 'https://istorijevozila.rs/carvertical-kupon-i-kod-za-popust/',
 //     title: 'carVertical Promo Kod 30% za Popust',
 //     button: 'carVertical Kod Kupon',
-//     discount_code: 'VOZILA'
+//     discount_code: 'VOZILA',
+//     percentage: '30%'
 //   },
 //   ...
 // ]
