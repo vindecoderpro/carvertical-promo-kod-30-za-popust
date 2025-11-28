@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Serbia | [istorijevozila.rs](https://istorijevozila.rs/) | [carvertical-kupon-i-kod-za-popust](https://istorijevozila.rs/carvertical-kupon-i-kod-za-popust/) | carVertical Promo Kod 30% za Popust | carVertical Kod Kupon | VOZILA |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Serbia | [istorijevozila.rs](https://istorijevozila.rs/) | [carvertical-kupon-i-kod-za-popust](https://istorijevozila.rs/carvertical-kupon-i-kod-za-popust/) | carVertical Promo Kod 30% za Popust | carVertical Kod Kupon | VOZILA | 30% |
 
 ## About
 
